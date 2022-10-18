@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tjk-berlin
+- 👀 I’m interested in mechanical engineering
+- 🌱 I’m currently learning python
+- 📫 tim7760r@me.com
